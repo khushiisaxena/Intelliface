@@ -1,6 +1,6 @@
 # Face Recognition Based Attendance System
 
-This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
+This project is a face recognition-based attendance system that uses OpenCV and Python. The system utilizes a trained Convolutional Neural Network (ResNet model) for accurate facial feature recognition. Dlib enhances facial landmark detection, while NumPy ensures efficient data manipulation. Attendance records are stored in CSV files for easy management, and OpenCV enables real-time image processing. The system offers a reliable, user-friendly solution for attendance tracking, showcasing its potential to revolutionize traditional methods in educational and corporate settings.
 
 ## Installation
 
